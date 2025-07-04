@@ -10,7 +10,6 @@ Installation
 Prerequisites
 Python 3.8 or higher
 Pip package manager
-
 pip install -r requirements.txt
 Technologies Used
 Python: Programming language
