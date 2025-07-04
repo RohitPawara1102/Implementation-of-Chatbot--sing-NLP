@@ -10,7 +10,7 @@ Installation
 Prerequisites
 Python 3.8 or higher
 Pip package manager
-git clone https://github.com/your-repo/chatbot-nlp.git
+
 pip install -r requirements.txt
 Technologies Used
 Python: Programming language
